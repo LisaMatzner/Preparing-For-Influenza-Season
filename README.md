@@ -1,4 +1,4 @@
-# Preparing For Influenza Season - Trend Analysis & Identification of High-Risk Regions
+# Preparing For Influenza Season
 
 The Influenza Season Analysis is a portfolio project created in 2022.
 
