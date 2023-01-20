@@ -24,8 +24,11 @@ The United States has an influenza season where more people than usual suffer fr
 
 ## Data Citation
 ["Influenza deaths by geography, time, age, and gender"](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) Accessed on 2022-10-11, Source: [CDC](https://wonder.cdc.gov/ucd-icd10.html)
+
 ["Population data by geography"](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) Accessed on 2022-10-11, Source: US Census Bureau
+
 ["Influenza Visits"](https://images.careerfoundry.com/public/courses/data-immersion/A1-A2_Influenza_Project/CDC_Influenza_Visits.xlsx) & ["Lab Tests by State"](https://images.careerfoundry.com/public/courses/data-immersion/A1-A2_Influenza_Project/CDC_Lab_Tests.xlsx) Accessed on 2022-10-11, Source: [CDC (Fluview)](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)
+
 ["Survey of flu shot rates in children"](https://images.careerfoundry.com/public/courses/data-immersion/A1-A2_Influenza_Project/NIS_Flu_Shot_Survey_reduced.xlsx) Accessed on 2022-10-11, Source: [CDC](https://www.cdc.gov/vaccines/imz-managers/nis/about.html)
 
 Note: Some data included in the data sets may be suppressed or left out to protect the identity of individuals and to conform to privacy laws.
