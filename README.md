@@ -1,7 +1,5 @@
 # Preparing For Influenza Season
 
-The Influenza Season Analysis is a portfolio project created in 2022.
-
 The project contains a data analysis of historical medical and population data to help a medical staffing agency that provides temporary workers to clinics and hospitals on an as-needed basis. The final results examine trends in influenza and how they can be used to proactively plan for staffing needs across the country.
 
 ## Context
